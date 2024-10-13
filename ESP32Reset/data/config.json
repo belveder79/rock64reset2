@@ -1,0 +1,14 @@
+{
+  "BoardConfig":
+  {
+    "chipId": 1,
+    "configVersion": 1,
+    "resetWifiSettings": 0,
+    "hotSpotName" : "rock64reset",
+    "hotSpotPwd" : "rock64reset",
+    "wifiName" : "jdfstmkat35",
+    "wifiPwd" : "tamara020979",
+    "serverPort" : 80,
+    "enabled" : 1
+  }
+}
